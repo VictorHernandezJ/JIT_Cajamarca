@@ -54,12 +54,20 @@ body {
 #check {
   display: none;
 }
+.banner,
+.ponencias,
+.ponentes,
+.equipo,
+.auspiciadores,
+.footer {
+  position: relative;
+  top: 4rem;
+  margin-bottom: 4rem;
+}
 /*banner*/
 .banner {
   width: 100vw;
   height: 100vh;
-  position: relative;
-  top: 4rem;
   background-image: url("../img/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -118,13 +126,15 @@ body {
   font-size: 2.5rem;
 }
 .ponencias {
+  position: relative;
+  top: 4rem;
   display: grid;
   width: 100%;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(3, auto);
   grid-gap: 1rem;
   grid-template-areas: "title title";
-  padding: 2rem 8rem;
+  padding: 2rem 8rem 4rem;
 }
 .ponencias .titulo {
   grid-area: title;
@@ -180,7 +190,6 @@ body {
 }
 /*ponentes*/
 .ponentes {
-  background-color: rgba(184, 185, 189, 0.5);
   background-image: url("../img/homepage-one-banner.jpg");
   background-position: center;
   background-size: cover;
