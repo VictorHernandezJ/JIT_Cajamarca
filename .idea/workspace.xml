@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32009ca9-ffb5-4757-9e4e-d6a196f5b362" name="Changes" comment="Cambio de imágenes y arreglo de texto duplicado" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/Diomedes_Arribasplata" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Diomedes_Arribasplata" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yH7Z2Of9LTBrO2G2dR2Gfhpugr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/ponentes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PhpstormProjects\JIT_Cajamarca\img\ponentes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PhpstormProjects\JIT_Cajamarca\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JIT_Cajamarca/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32009ca9-ffb5-4757-9e4e-d6a196f5b362" name="Changes" comment="" />
+      <created>1631896711849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631896711849</updated>
+      <workItem from="1631896713370" duration="42000" />
+      <workItem from="1631896799207" duration="4967000" />
+      <workItem from="1631902003248" duration="190000" />
+      <workItem from="1631937568656" duration="1215000" />
+      <workItem from="1631938901376" duration="7772000" />
+      <workItem from="1632144287616" duration="564000" />
+      <workItem from="1632144873260" duration="137000" />
+      <workItem from="1632145024079" duration="250000" />
+      <workItem from="1632145310868" duration="892000" />
+      <workItem from="1632146222531" duration="52000" />
+      <workItem from="1632146287123" duration="6646000" />
+    </task>
+    <task id="LOCAL-00001" summary="Nueva Rama">
+      <created>1631896951184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631896951184</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cambio paleta de colores">
+      <created>1631900981358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631900981358</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CAMBIO PLANTILLA">
+      <created>1631945431690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631945431690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CAMBIO PLANTILLA v2">
+      <created>1631945784952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631945784952</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CAMBIO PLANTILLA v2">
+      <created>1631946079280</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631946079280</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CAMBIO PLANTILLA v2">
+      <created>1631946817212</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631946817212</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cambio de imágenes y arreglo de texto duplicado">
+      <created>1632160848065</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632160848065</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Nueva Rama" />
+    <MESSAGE value="Cambio paleta de colores" />
+    <MESSAGE value="CAMBIO PLANTILLA" />
+    <MESSAGE value="CAMBIO PLANTILLA v2" />
+    <MESSAGE value="Cambio de imágenes y arreglo de texto duplicado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio de imágenes y arreglo de texto duplicado" />
+  </component>
+</project>
