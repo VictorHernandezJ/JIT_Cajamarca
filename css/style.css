@@ -77,12 +77,13 @@ body {
 .banner-contenido h2 {
   color: #fff;
   font-size: 6rem;
-  text-shadow: 10px 2px #676768;
+  text-shadow: 10px 0px #5d5d63;
 }
 .banner-contenido h3 {
   color: #fff;
   font-size: 2rem;
   margin-bottom: 6px;
+  text-shadow: 4px 0px #5d5d63;
 }
 .banner-contenido p {
   width: 500px;
@@ -382,6 +383,11 @@ p {
 .red-social i:hover {
   color: #6893e8;
   font-size: 2.3rem;
+}
+.footer p {
+  text-align: center;
+  padding: 10px;
+  color: #c8c9ca;
 }
 /*responsive*/
 /*tablet*/
