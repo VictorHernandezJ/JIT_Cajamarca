@@ -605,19 +605,19 @@ p {
   /*baner*/
   .banner {
     top: 3rem;
-    height: 80vh;
+    height: 100vh;
   }
   .banner-contenido h2 {
-    font-size: 3rem;
+    font-size: 2rem;
     text-shadow: 4px 0px #5d5d63;
   }
   .banner-contenido h3 {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     margin-bottom: 4px;
-    text-shadow: 3px 0px #5d5d63;
+    text-shadow: 2px 0px #5d5d63;
   }
   .banner-contenido p {
-    width: 400px;
+    width: 300px;
     font-size: 0.7rem;
   }
   .video {
